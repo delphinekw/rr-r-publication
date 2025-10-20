@@ -2,6 +2,8 @@
 
 # RR Workshop Tutorial: Writing publications with R
 
+** here's some modification **
+
 This tutorial in the context of the **Reproducible Research Workshop** provides you with the first steps on how to write publications in R.
 
 **Objectives of this tutorial:**
